@@ -2,7 +2,7 @@
 
 A fully functional E-Commerce platform built with Django and Django Templates using server-side rendering (SSR) — no APIs or frontend frameworks.
 This project was my first ever Django project, where I learned the fundamentals of full-stack web development, database modeling, routing, and server-side rendering. Despite being a beginner project, it demonstrates solid architecture, modular design, and separation of concerns through the use of multiple Django apps.
-
+📬 alirzglshn
 🚀 Tech Stack
 
 
@@ -113,8 +113,9 @@ Add CRUD operations for products and categories
 
 
 🧑‍💻 Author
+
+
 Alireza Golshan
 Backend Developer (Django) - but i know a bit of fronend and client side rendering too
-📬 alirzglshn
 
 THANKS FOR VEWING THIS REPOSITORY 
